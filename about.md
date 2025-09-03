@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /about/
 ---
 
 # ℹ️ A little bit about me
